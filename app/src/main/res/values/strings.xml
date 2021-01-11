@@ -7,6 +7,8 @@
     <string name="next">Next</string>
     <string name="previous">Previous</string>
 
-    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="counter_value_text">0</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="increment_text">increment</string>
+    <string name="edit_text_counter">Set type of counter</string>
 </resources>
